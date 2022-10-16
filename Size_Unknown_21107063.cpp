@@ -1,5 +1,5 @@
 #include <iostream>           //Lakshyadeep Singh      
-using namespace std;         //ECE SID:21107063
+using namespace std;         // SID:21107063
 
 /*
 QUESTION:How would you search for an element in an array/list whose size is unknown?
